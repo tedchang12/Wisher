@@ -4,4 +4,10 @@
 #介面操作
 使用 Make a wish 上傳照片並新增標籤以及挑戰者,挑戰者會收到通知並在動態
 時報上顯示被挑戰的項目。
-#登入
+#Login
+![Image of login](https://github.com/tedchang12/Wisher/blob/master/image/login.png)
+#Timeline
+![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/profile.png)
+#Profile
+![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/4.png)
+
