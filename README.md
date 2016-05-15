@@ -7,7 +7,7 @@
 #Login
 ![Image of login](https://github.com/tedchang12/Wisher/blob/master/image/login.png)
 #Timeline
-![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/profile.png)
+![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/Profile.png)
 #Profile
 ![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/4.png)
 
