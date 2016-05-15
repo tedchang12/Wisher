@@ -8,6 +8,8 @@
 ![Image of login](https://github.com/tedchang12/Wisher/blob/master/image/login.png)
 #Timeline
 ![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/Profile.png)
+#Upload
+![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/2.png)
 #Profile
 ![Image of profile](https://github.com/tedchang12/Wisher/blob/master/image/4.png)
 
